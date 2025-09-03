@@ -5,7 +5,7 @@ body {
   position: absolute;
   right: 0;
   bottom: 0;
-  max-width: 100%;
+ min-width: 100%;
   min-height: 100vh;
   object-fit: cover;
   z-index: -1;
@@ -913,6 +913,7 @@ color: #c4a359;
     align-items: center;
   }
 }
+
 
 
 
