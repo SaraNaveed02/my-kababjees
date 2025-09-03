@@ -578,7 +578,7 @@ body {
 }
 
 .footer {
-  background:url('footer-bg.png') no-repeat center center/cover;
+  background:url('footer-bg.jpeg') no-repeat center center/cover;
   background-color: #1a1a1a;
   color: #ffffff;
   font-family: "Roboto Condensed", sans-serif;
@@ -913,5 +913,6 @@ color: #c4a359;
     align-items: center;
   }
 }
+
 
 
